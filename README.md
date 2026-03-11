@@ -6,4 +6,6 @@ Dado el desbalanceo de la información se propusieron dos metodologías, la prim
 
 # Conclusiones Generales
 
-* La metodología de oversampling tuvo un mejor resultado logrando predecir un mayor número de casos (85% de los casos correctamente).
+* El modelo Undersample muestra un mejor performance ya que logra detectar más clientes con potencial a terminar el contrato.
+
+* Las variables que más influye en la decisión de continuar o no con el servicio son remainder__tenure y onehotencoder__TechSupport_No
